@@ -38,6 +38,6 @@ body{
     transition: color 0.3s ease;
 }
 
-.hero-nave a:hover {
-    color: #e60073 !important;
+.hero-nav a:hover {
+    color: #e60073;
 }
