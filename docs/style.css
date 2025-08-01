@@ -20,7 +20,7 @@ body{
     margin: 0;
 }
 
-.page-header nav u1 {
+.page-header nav ul {
     list-style: none;
     display: flex;
     gap: 1.5rem;
