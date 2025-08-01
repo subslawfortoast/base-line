@@ -39,5 +39,5 @@ body{
 }
 
 .hero-nave a:hover {
-    color: #e60073;
+    color: #e60073 !important;
 }
