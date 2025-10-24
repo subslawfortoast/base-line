@@ -12,9 +12,9 @@ body{
 
 .hero-image {
     display: block;
-    margin: 20px auto;
+    margin: 5px auto;
     width: 100px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .hero h1 {
