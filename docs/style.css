@@ -13,7 +13,7 @@ body{
 .hero-image {
     display: block;
     margin: 20px auto;
-    width: 50%;
+    width: 100px;
     border-radius: 10px;
 }
 
