@@ -12,7 +12,7 @@ body{
 
 .hero-image {
     display: block;
-    width: 100%;
+    width: 66vh;
     height: 66vh;
     object-fit: cover;
 }
