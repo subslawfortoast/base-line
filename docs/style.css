@@ -12,6 +12,12 @@
     margin: 0 auto;
 }
 
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #e1b102;
+}
+
 body{
     font-family: "Palatino Linotype", Georgia, serif;
     background-color: #262427;
@@ -22,14 +28,6 @@ body{
 .hero {
     text-align: center;
     padding: 5rem 2rem;
-}
-
-
-
-.hero h1 {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-    color: #e1b102;
 }
 
 .hero p {
