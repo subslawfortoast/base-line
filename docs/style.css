@@ -10,13 +10,6 @@ body{
     padding: 5rem 2rem;
 }
 
-.hero-image {
-    display: block;
-    margin: 20px auto;
-    width: 300px;
-    border-radius: 10px
-}
-
 .hero h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
