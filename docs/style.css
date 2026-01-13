@@ -74,4 +74,5 @@ body{
     height: 300px;
     border-radius: 24px;
     background-color: #36525f;
+    overflow: hidden;
 }
