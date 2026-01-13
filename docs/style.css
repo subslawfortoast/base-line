@@ -75,4 +75,18 @@ body{
     border-radius: 24px;
     background-color: #36525f;
     overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textbox {
+    font-family: 'Great Vibes', cursive;
+    font-size: 1.5rem;
+    background-color: #36525f;
+    color: #2ea2d8;
+    padding: 0.75rem 1.25rem;
+    text-shadow: 2px 2px 4px rgba(255, 196, 70, 0.5);
+    font-weight: bold;
 }
