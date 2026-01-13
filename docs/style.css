@@ -36,6 +36,12 @@ body{
     color: #000000;
 }
 
+.hero-nav {
+    background-color: #da0000;
+    padding: 1rem 0;
+    margin-bottom: 3rem;
+}
+
 .hero-nav ul {
     list-style: none;
     display: flex;
