@@ -91,3 +91,13 @@ body{
     text-shadow: 2px 2px 4px rgba(255, 196, 70, 0.5);
     font-weight: bold;
 }
+
+.btn{
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.4rem 1rem;
+    border: 2px solid #2ea2d8de;
+    border-radius: 999px;
+    background-color: rgba(46, 162, 216, 0.05);
+    transition: all 0.25s ease;
+}
